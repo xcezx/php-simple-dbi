@@ -7,7 +7,8 @@
     "authors": [
         {
             "name": "xcezx",
-            "email": "main.xcezx@gmail.com"
+            "email": "main.xcezx@gmail.com",
+            "role": "maintainer"
         }
     ],
     "minimum-stability": "dev",
